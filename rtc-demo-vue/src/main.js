@@ -4,6 +4,7 @@ import router from './router'
 import Vant from 'vant';
 import Storage from 'vue-ls';
 import 'ant-design-vue/dist/antd.css'
+import 'vant/lib/index.css';
 import axios from 'axios';
 import { Button,List,Input,Form ,Avatar } from 'ant-design-vue';
 
